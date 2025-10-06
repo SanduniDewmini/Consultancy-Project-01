@@ -6,8 +6,6 @@
 
 **University of Sri Jayewardenepura**
 **Course:** STA 474 – Statistical Consultancy (2.0 Credits)
-**Supervisor:** Dr. Niroshan Withanage
-
 ---
 
 ### 📘 Project Summary
