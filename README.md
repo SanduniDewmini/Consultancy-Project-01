@@ -50,6 +50,3 @@ Analysis was conducted using **R software**, with packages such as:
 
 ---
 
-
-Would you like me to make this `README.md` in **Markdown file format** (`.md`) so you can directly upload it to GitHub?
-
