@@ -7,12 +7,6 @@
 **University of Sri Jayewardenepura**
 **Course:** STA 474 – Statistical Consultancy (2.0 Credits)
 **Supervisor:** Dr. Niroshan Withanage
-**Group Members:**
-
-* P.H.G.R.C. Silva – AS2020519
-* M.G.S. Dewmini – AS2020596
-* O.G.S. Harshani – AS2020436
-* N.B.U. Savindi – AS2020343
 
 ---
 
