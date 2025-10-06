@@ -4,8 +4,6 @@
 
 ### A Case Study in a Naturalized Mature Pine Plantation in Tropical Lowland Sri Lanka
 
-**University of Sri Jayewardenepura**
-**Course:** STA 474 – Statistical Consultancy (2.0 Credits)
 ---
 
 ### 📘 Project Summary
